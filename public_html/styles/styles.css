@@ -1,58 +1,48 @@
-body
-{
-    background-color: #e0eeee;
-
- 
+body {
+    background-color: #e7eeee;
     font-family: 'Ubuntu', sans-serif;
 }
 
 .well {
-   background-color: rgba(245, 245, 245, 0.5);
-   width: 75%;
+    background-color: rgba(245, 245, 245, 0.5);
+    width: 75%;
 }
 
-.standalone
-  {
+.standalone {
     display: block;
-  }
+}
 
-
-
-h1
-{
+h1 {
     font-size: 1.4em;
     font-family: 'Ubuntu', sans-serif;
     margin: 3px;
 }
 
-h2
-{
+h2 {
     font-size: 1.2em;
     font-family: 'Ubuntu', sans-serif;
     margin: 3px;
 }
 
-h3
-{
+h3 {
     font-size: 1.1em;
     font-family: 'Ubuntu', sans-serif;
 }
 
-p 
-{
-   margin-left: 5px;
+p {
+    margin-left: 5px;
 }
+
 p.clear {
     clear: both;
 }
 
 p.indented {
-    padding-left: 10px;
+    padding-left: 5px;
 }
 
-ul.minimal{
+ul.minimal {
     list-style-type: none;
     padding-left: 10px;
     padding-top: 0px;
-  }
-
+}
