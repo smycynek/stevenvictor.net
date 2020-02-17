@@ -1,6 +1,6 @@
 body
 {
-    background-color: #ddeeee;
+    background-color: #e0eeee;
 
  
     font-family: 'Ubuntu', sans-serif;
@@ -46,6 +46,9 @@ p.clear {
     clear: both;
 }
 
+p.indented {
+    padding-left: 10px;
+}
 
 ul.minimal{
     list-style-type: none;
