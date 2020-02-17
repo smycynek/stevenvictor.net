@@ -21,14 +21,16 @@ body
 
 h1
 {
-    font-size: 1.3em;
+    font-size: 1.4em;
     font-family: 'Ubuntu', sans-serif;
+    margin: 3px;
 }
 
 h2
 {
     font-size: 1.2em;
     font-family: 'Ubuntu', sans-serif;
+    margin: 3px;
 }
 
 h3
@@ -45,4 +47,10 @@ p.clear {
     clear: both;
 }
 
+
+ul.minimal{
+    list-style-type: none;
+    padding-left: 10px;
+    padding-top: 0px;
+  }
 
